@@ -16,7 +16,7 @@ import java.util.List;
 
 @RequiredArgsConstructor
 @Controller
-public class BlohViewController {
+public class BlogViewController {
 
     private final BlogService blogService;
 
